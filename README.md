@@ -2,13 +2,13 @@
 
 ### 12/06/23
 ##### ciao-01.pka
-Asks your name and says "Ciao" and then your name
+Opened in the terminal, asks your name and says "Ciao" + your name
 ##### ciao-02.pwk
-ciao-01.pka with interface
+The same as ciao-01.pka, but with an interface
 
 ### 13/06/23
 ##### agenda-01.pwk
-
+Adds, edits, deletes information about a person in a table 
 ##### rete-01.pwk
 Lets you visualize a cam, and send and receive messages, specifying the destination ip
 
