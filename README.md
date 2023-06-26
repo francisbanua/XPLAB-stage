@@ -54,7 +54,7 @@
 ![native-cloud-01-03](https://github.com/francisbanua/XPLAB-stage/assets/106865288/94d523b1-1ee0-431a-970b-970cf280bc93)
 
 ### server-remote-01.pwk
-###### 26/06/23
+###### 22/06/23 - 26/06/23
 #### Remotable gui that lets clients navigate through the server's files, create new folders, rename, delete, download and upload files
 ![server-remote-01](https://github.com/francisbanua/XPLAB-stage/assets/106865288/272c7373-8793-43d3-a4d5-f396b673f70f)
 ![server-remote-01-02](https://github.com/francisbanua/XPLAB-stage/assets/106865288/3eed563a-d254-4198-b63e-cfca9740fd8e)
