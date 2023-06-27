@@ -1,5 +1,7 @@
 # XPLAB-stage
 
+These are the programs made during the stage in XPLAB (12/06/23 - 30/06/23). These were made by me and another student, with the help of two tutors. They're all made using the POWER-KI language.
+
 ### ciao-01.pka
 ###### 12/06/23
 #### Asks your name and says "Ciao" + your name
@@ -12,9 +14,9 @@
 ![ciao-02](https://github.com/francisbanua/XPLAB-stage/assets/106865288/8337c873-b738-4d66-8f98-3a05fc5670a0)
 
 
-### agenda-01.pwk
-###### 12/06/23 - 13/06/23
-#### Lets the user add, edit, delete information (surname, name, number) about a person in a table
+### agenda-02.pwk
+###### 12/06/23 - 13/06/23, 21/06/23
+#### Lets the user add, edit, delete information (surname, name, number) about a person in a table, and saves these in a sql database
 ![agenda-01](https://github.com/francisbanua/XPLAB-stage/assets/106865288/41d3c620-3324-419a-8ee2-ad090eff2b5c)
 ![agenda-01-02](https://github.com/francisbanua/XPLAB-stage/assets/106865288/7f85f114-2692-469b-94d3-66bfe0fdd1e1)
 
