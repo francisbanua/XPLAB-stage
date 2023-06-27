@@ -1,6 +1,6 @@
 # XPLAB-stage
 
-These are the programs made during the stage in XPLAB (12/06/23 - 30/06/23). These were made by me and another student, with the help of two tutors. They're all made using the POWER-KI language.
+These are the programs made during the stage in XPLAB (12/06/23 - 30/06/23). These were made by me and another student, with the help of two tutors. They're all made using the POWER-KI language and the POWER-KI Workbench.
 #
 ### ciao-01.pka
 ###### 12/06/23
