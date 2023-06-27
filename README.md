@@ -22,7 +22,7 @@ These are the programs made during the stage in XPLAB (12/06/23 - 30/06/23). The
 
 ### rete-01.pwk
 ###### 13/06/23
-#### Shows a cam and lets the user send and receive messages, specifying the destination ip
+#### Shows a cam and lets the user send and receive messages with UDP, specifying the destination ip
 ![rete-01](https://github.com/francisbanua/XPLAB-stage/assets/106865288/b4b0ae8b-7eb5-4b10-9a77-00aac0c4595c)
 
 
@@ -44,7 +44,7 @@ These are the programs made during the stage in XPLAB (12/06/23 - 30/06/23). The
 
 ### web-01.pwk
 ###### 21/06/23
-#### Uses the WUI and lets the user navigate through web by using WEB/WEBFAST
+#### Uses the WUI to create html pages and lets the user navigate through the web by using WEB/WEBFAST
 ![web-01](https://github.com/francisbanua/XPLAB-stage/assets/106865288/29b7c93a-c099-4c48-8da2-9c5652f5e01e)
 ![image](https://github.com/francisbanua/XPLAB-stage/assets/106865288/94f3a84c-569f-48e5-aca2-f750b11c7040)
 
