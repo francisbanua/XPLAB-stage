@@ -77,4 +77,8 @@ These are the programs made during the stage in XPLAB (12/06/23 - 30/06/23). The
 ![diario-orario](https://github.com/francisbanua/XPLAB-stage/assets/106865288/fd330e0d-333e-4692-920f-5ac6f6d04ff3)
 ![diario-materie](https://github.com/francisbanua/XPLAB-stage/assets/106865288/70781f9e-eb3c-43df-94cb-6fe631df622b)
 ![diario-eventi](https://github.com/francisbanua/XPLAB-stage/assets/106865288/24962413-9eb7-4c91-a413-3899f420aa72)
-
+#
+### durata.pwk
+###### 29/06/23
+#### Given a table about different operations, with their own beginning time and ending time, draws in a panel a graph that shows when each operation starts and ends.
+![durata](https://github.com/francisbanua/XPLAB-stage/assets/106865288/4b511f83-4881-4f60-929d-1f1a89d651fe)
