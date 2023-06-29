@@ -10,7 +10,7 @@ These are the programs made during the stage in XPLAB (12/06/23 - 30/06/23). The
 ### ciao-02.pwk
 ###### 12/06/23
 #### The same as ciao-01.pka, but with a GUI interface. 
-####The user inserts their name in a text box, and at the click of a button, a label with text "Ciao" + user's name appears.
+#### The user inserts their name in a text box, and at the click of a button, a label with text "Ciao" + user's name appears.
 ![ciao-02](https://github.com/francisbanua/XPLAB-stage/assets/106865288/8337c873-b738-4d66-8f98-3a05fc5670a0)
 #
 ### agenda-02.pwk
@@ -46,7 +46,8 @@ These are the programs made during the stage in XPLAB (12/06/23 - 30/06/23). The
 #
 ### web-01.pwk
 ###### 21/06/23
-#### Uses the WUI to create html pages and lets the user navigate through the web by using WEB/WEBFAST. In a textbox, the user can put the link of a website and by clicking a button, the website gets loaded in a panel. The user can also load an html page created in the WUI interface, by puttinc in the textbox "127.0.0.1/" or "localhost/" + file html name.
+#### Uses the WUI to create html pages and lets the user navigate through the web by using WEB/WEBFAST.
+#### In a textbox, the user can put the link of a website and by clicking a button, the website gets loaded in a panel. The user can also load an html page created in the WUI interface, by puttinc in the textbox "127.0.0.1/" or "localhost/" + file html name.
 ![web-01](https://github.com/francisbanua/XPLAB-stage/assets/106865288/29b7c93a-c099-4c48-8da2-9c5652f5e01e)
 ![image](https://github.com/francisbanua/XPLAB-stage/assets/106865288/94f3a84c-569f-48e5-aca2-f750b11c7040)
 #
