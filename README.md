@@ -79,5 +79,5 @@ These are the programs created during the stage at XPLAB (12/06/23 - 30/06/23). 
 #
 ### durata-01.pwk
 ###### 29/06/23
-#### This program generates a graph in a panel based on a table that contains different operations along with their start and end times. The graph visually represents when each operation starts and ends.
-![durata](https://github.com/francisbanua/XPLAB-stage/assets/106865288/4b511f83-4881-4f60-929d-1f1a89d651fe)
+#### This program generates a graph in a panel based on a table that contains different operations along with their start and end times. The graph visually represents when each operation starts and ends. There's also a vertical line which moves with the cursor, and a label on top of the panel that shows the current time in the vertical line. This program lets the user select a table with a button, and the table will be loaded on the GUI and the database SQL.
+![durata (1)](https://github.com/francisbanua/XPLAB-stage/assets/106865288/9f6fb713-ebc1-4c62-af57-9abdb65f7ee9)
