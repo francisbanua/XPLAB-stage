@@ -65,6 +65,11 @@ These are the programs created during the stage at XPLAB (12/06/23 - 30/06/23). 
 ![server-remote-01](https://github.com/francisbanua/XPLAB-stage/assets/106865288/272c7373-8793-43d3-a4d5-f396b673f70f)
 ![server-remote-01-02](https://github.com/francisbanua/XPLAB-stage/assets/106865288/3eed563a-d254-4198-b63e-cfca9740fd8e)
 #
+### ardu-dist-01.pwk
+###### 26/06/23 - 27/06/23
+#### This program shows the distance from an object and multiplies it by a number. This uses an ultrasonic sensor configured with Arduino and sends to the POWER-KI program the distance value, which will be written after "Distance:". The user can multiply this value by a number inserted in a textbox, which will be sent to Arduino after the click of a button. So with POWER-KI we can receive data from Arduino and also send data to Arduino. 
+![adru-dist](https://github.com/francisbanua/XPLAB-stage/assets/106865288/fc134e05-c8c9-40b6-a896-8250a7a9b7c1)
+#
 ### diario.pwk
 ###### 27/06/23 - 29/06/23
 #### This program is a school diary that allows students to manage grades, the school weekly timetable, subjects, and events. All data is saved in an SQL database.
