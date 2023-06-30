@@ -81,5 +81,5 @@ Questi sono i programmi creati durante lo stage presso XPLAB (12/06/23 - 30/06/2
 #
 ### durata.pwk
 ###### 29/06/23
-#### Questo programma genera un grafico in un pannello basato su una tabella che contiene diverse operazioni insieme ai loro tempi di inizio e fine. Il grafico rappresenta visivamente quando inizia e termina ogni operazione.
-![durata](https://github.com/francisbanua/XPLAB-stage/assets/106865288/4b511f83-4881-4f60-929d-1f1a89d651fe)
+#### Questo programma genera un grafico in un pannello basato su una tabella che contiene diverse operazioni insieme ai loro tempi di inizio e fine. Il grafico rappresenta visivamente quando ogni operazione inizia e finisce. C'è anche una linea verticale che si sposta con il cursore e una etichetta in cima al pannello che mostra l'ora corrente sulla linea verticale. Questo programma consente all'utente di selezionare una tabella con un pulsante e la tabella verrà caricata nell'interfaccia grafica (GUI) e nel database SQL.
+![durata (1)](https://github.com/francisbanua/XPLAB-stage/assets/106865288/a91acfe4-a6e2-4643-972a-9934d2a1dba9)
